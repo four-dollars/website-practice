@@ -1,0 +1,122 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tribute-page</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scales=1.0">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main id="main">
+      <header>
+        <h1 id="title">忌炎 Jiyan - 凌风逐野</h1>
+        <h2>瑝珑夜归军的领军者，心藏正义，雷厉风行，具有将风场化为青龙的异能力，一人之力可抵万军。</h2>
+      </header>
+      <figure id="img-div">
+        <img id="image" src="https://i.pinimg.com/originals/17/b8/3f/17b83f7a1df144337bf205628e3a9ef6.png" alt="Jiyan & Jué">
+        <figcaption id="img-caption">Jiyan & Jué | Wuthering Waves</figcaption>
+      </figure>
+      <div id="tribute-info">
+        <div class="info-grid">
+          <div>
+          <img class="info-image" src="https://prod-alicdn-community.kurobbs.com/forum/f7292b6b286b4c7abdb2dd5761d9d87c20240521.png" alt="jiyan-character">
+          </div>
+          <div class="info-text">
+          <p>性别：男</p>
+          <p>生日：12月14日</p>
+          <p>属性：气动</p>
+          <p>武器：长刃</p>
+          <p>所属：今州</p>
+          <p>出生：瑝珑</p>
+          </div>
+        </div>
+        <h3>角色故事</h3>
+        <ul >
+          <li><p><span class="bold">不坠黄沙之地</span> - 忌炎初任将军之时，关外遭遇了一场规模空前的残象潮。</p></li>
+          <li><p><span class="bold">为何而战？</span> - 坊间都说忌炎是夜归最年轻的将军，是万人敬仰的青龙，也是所向披靡的战神，但不知从何时起，他会做一个梦。梦境中烽火狼烟席卷了整个今州，残象不断吞噬着战场中逝者的频率，混乱而诡谲的声音充斥其间。</p></li>
+          <li><p><span class="bold">及时雨</span> - 夜归军中有许多奇事。大小事务，新愁旧忧，似乎总会在你最需要的时候立马解决掉。就像一场恰到好处的及时雨，润物细无声地落下。</p></li>
+          <li><p><span class="bold">葫芦里卖的什么药？</span> - 出生于医学世家的忌炎，年仅十岁，就成为母亲的助手，不仅医术精湛，还能细腻地观察到病人不安的情绪，他总是很体贴地安抚每一位患者，是众人眼中的仁医。忌炎明白，名为悲鸣的顽疾已是沉疴，再高尖的医学手段、再妙手回春的圣手都难以根治。
+做手术的柳叶刀与上战场的重刃，都是治疗这个世界的手段。
+如今，只有腰间悬挂的葫芦药壶还提醒着他曾经悬壶济世的身份。</p></li>
+          <li><p><span class="bold">临时小队</span> - 少年坚毅的目光锁定着赛道的终点，身旁的风景与呐喊淹没在被无限放大的心跳声中，再接近一点，再快一点。
+嘣地一声，终点的彩带飘洒下来，周遭的声音再次涌入耳中，赢了！队友们张扬地跑来，簇拥着最后一棒的少年，少年们拿起沉甸甸的奖杯，约定好下次竞渡会也要一起组队。</p></li>
+        </ul>
+      </div>
+      
+      <a id="tribute-link" href="https://www.kurobbs.com/mc/home/9" target="_blank">kurobbs 庫街區</a>
+      
+    </main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+*{
+  
+  box-sizing:border-box;
+}
+#image{
+  max-width:100%;
+  margin:auto;
+  margin-top:50px;
+  display:block;
+
+}
+header{
+  text-align:center;
+}
+header h2{
+  font-size:1rem;
+}
+#img-div{
+  background-color:white;
+  max-width:100%;
+}
+#img-caption{
+  text-align:center;
+  margin:20px auto;
+}
+.info-grid{
+  display:grid;
+  grid-template-columns:5fr 5fr;
+}
+.info-image{
+  max-width:80%;
+  display:block;
+  float:right;
+}
+.info-text{
+  margin-left:30px;
+  display:grid;
+  align-content:space-evenly;
+}
+.info-text p{
+  background-color:white;
+}
+h3{
+  text-align:center;
+}
+.bold{
+  font-weight:bold;
+}
+#tribute-link{
+  text-decoration:none;
+  display:block;
+  text-align:center;
+}
+body{background-color:lightgray;}
+li{
+  margin-top:20px;
+  background-color:white;
+}
+li::last-of-type{
+  margin-bottom:20px;
+}
+
+
+** end of undefined **
+
