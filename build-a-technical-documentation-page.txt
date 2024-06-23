@@ -1,0 +1,515 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ONE OK ROCK</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    
+    <nav id="navbar">
+      <header>My Favorite<br> ONE OK ROCK songs</header>
+      <div id="nav-links">
+      <a class="nav-link" href="#Directory">Directory</a>
+      <a class="nav-link" href="#Neon">Neon</a>
+      <a class="nav-link" href="#Wherever_You_Are">Wherever You Are</a>
+      <a class="nav-link" href="#Bedroom_Warfare">Bedroom Warfare</a>
+      <a class="nav-link" href="#Broken_Heart_Of_Gold">Broken Heart of Gold</a>
+      <a class="nav-link" href="#The_Beginning">The Beginning</a>
+      <a class="nav-link" href="#Code_used">Code used</a>
+      </div>
+    </nav>
+    
+    <main id="main-doc">
+      <section class="main-section" id="Directory">
+        <header>Directory</header>
+        <ul>
+          <li>Luxury Disease
+            <ul>
+              <li>Neon</li>
+              <li>Broken Heart of Gold</li>
+            </ul>
+          </li>  
+          <li>Niche Syndrome
+            <ul>
+              <li>Wherever You Are</li>
+            </ul>
+          </li>
+            
+          <li>Ambitions
+            <ul>
+              <li>Bedroom Warfare</li>
+            </ul>
+          </li>
+          <li>人生×僕=
+            <ul>
+              <li>The Beginning</li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+      <section class="main-section" id="Neon">
+        <header>Neon</header>
+        <p>Luxury Disease</p>
+        <p>Neon lights
+Woke up in hell for a day<br>
+Your body's on fire<br>
+My soul is in flames<br>
+Downtown my city is gray<br>
+But I got the shine<br>
+It's in my DNA<br>
+Sing it na na na na na na<br>
+Na na na na na na<br>
+Na na na na na na<br>
+Blinded by the na na na na na na<br>
+Na na na na na na<br>
+Na na na na na na<br>
+I'm blinded by the neon lights<br>
+Shining bright on the innocent<br>
+Shibuya nights<br>
+Burning brighter than the sun<br>
+Neon lights<br>
+What a time to be living in<br>
+Shibuya nights<br>
+Live forever 'til the morning comes<br>
+Getting it all for free<br>
+Living a strung-out dream<br>
+Living a fantasy<br>
+Neon lights<br>
+Shining bright on the innocent<br>
+Every one of them<br>
+Neon lights<br>
+Wake up go misbehave<br>
+Get the fuck off the couch<br>
+Turn the streets to a rave<br>
+Black out drink 'til we fade<br>
+Make your daddy ashamed<br>
+From Tokyo to L.A.<br>
+Sing it na na na na na na<br>
+Na na na na na na<br>
+Na na na na na na<br>
+Blinded by the na na na na na na<br>
+Na na na na na na<br>
+Na na na na na na<br>
+Shibuya<br>
+Neon lights<br>
+Shining bright on the innocent<br>
+Shibuya nights<br>
+Burning brighter than the sun<br>
+Neon lights<br>
+What a time to be living in<br>
+Shibuya nights<br>
+Live forever 'til the morning comes<br>
+Getting it all for free<br>
+Living a strung-out dream<br>
+Living a fantasy<br>
+Neon lights<br>
+Shining bright on the innocent<br>
+Every one of them<br>
+Neon<br>
+Neon lights<br>
+Shining bright on the innocent<br>
+Shibuya nights<br>
+Burning brighter than the sun<br>
+Neon lights<br>
+What a time to be living in<br>
+Shibuya nights<br>
+Live forever 'til the morning comes<br>
+Getting it all for free<br>
+Living a strung-out dream<br>
+Living a fantasy<br>
+Neon lights<br>
+Shining bright on the innocent<br>
+Every one of them<br>
+Neon lights</p>
+      </section>
+     <section class="main-section" id="Wherever_You_Are">
+        <header>Wherever You Are</header>
+        <p>Niche Syndrome</p>
+        <p>I'm telling you<br>
+I softly whisper<br>
+Tonight, tonight<br>
+You are my angel<br>
+愛してるよ<br>
+二人はひとつに<br>
+Tonight, tonight<br>
+I just to say<br>
+Wherever you are<br>
+I always make you smile<br>
+Wherever you are<br>
+I'm always by your side<br>
+Whatever you say<br>
+キミを想う 気持ち<br>
+I promise you forever right now<br>
+I don't need a reason<br>
+I just want you baby<br>
+Alright, alright<br>
+Day after day<br>
+この先長いことずっと<br>
+どうか こんな僕とずっと<br>
+死ぬまで<br>
+Stay with me<br>
+We carry on<br>
+Wherever you are<br>
+I always make you smile<br>
+Wherever you are<br>
+I'm always by your side<br>
+Whatever you say<br>
+キミを想う 気持ち<br>
+I promise you forever right now<br>
+Wherever you are<br>
+I never make you cry<br>
+Wherever you are<br>
+I never say goodbye<br>
+Whatever you say<br>
+キミを想う気持ち<br>
+I promise you forever right now<br>
+僕らが出逢った日は<br>
+二人にとって<br>
+一番目の記念すべき日だね<br>
+そして今日という日は<br>
+二人にとって<br>
+二番目の記念すべき日だね<br>
+心から愛せる人<br>
+心から愛おしい人<br>
+この僕の愛の真ん中には<br>
+いつも君がいるから<br>
+Wherever you are<br>
+I always make you smile<br>
+Wherever you are<br>
+I'm always by your side<br>
+Whatever you say<br>
+君を想う 気持ち<br>
+I promise you forever right now<br>
+Wherever you are<br>
+Wherever you are<br>
+Wherever you are</p>
+      </section>
+      
+     <section class="main-section" id="Bedroom_Warfare">
+        <header>Bedroom Warfare</header>
+        <p>Ambitions</p>
+        <p>Keep your enemies close<br>
+Your enemies close<br>
+Keep your enemies close<br>
+Your enemies close<br>
+Keep your enemies close<br>
+Your enemies close<br>
+Keep your enemies close<br>
+Your enemies<br>
+I cut you off but you're still here (yeah, yeah, yeah)<br>
+You're like a whisper in my ear (yeah, yeah, yeah)<br>
+You start soft but you're getting louder<br>
+Every hour I feel the power<br>
+We go hard till the morning light<br>
+We battle nightly<br>
+"Keep your enemies"<br>
+Bedroom warfare in the middle of the night<br>
+Out of nowhere you come back into my life<br>
+And I know in the morning, we'll be<br>
+Nothing more than each other's enemy<br>
+Bedroom warfare in the middle of the night, ah<br>
+Keep your enemies close<br>
+Your enemies close<br>
+Keep your enemies close<br>
+Your enemies close<br>
+Keep your enemies close<br>
+Your enemies close<br>
+Keep your enemies close<br>
+Your enemies<br>
+It's like I never had a chance (yeah, yeah, yeah)<br>
+We're doing a dangerous dance (yeah, yeah, yeah)<br>
+It's not a fair fight when you're already naked<br>
+Your body language is so persuasive<br>
+We go hard 'till the morning light<br>
+We battle nightly<br>
+"Keep your enemies"<br>
+Bedroom warfare in the middle of the night<br>
+Out of nowhere you come back into my life<br>
+And I know in the morning, we'll be<br>
+Nothing more than each other's enemy<br>
+Bedroom warfare in the middle of the night, ah<br>
+Keep your enemies close<br>
+Your enemies close<br>
+Keep your enemies close<br>
+Your enemies close<br>
+Keep your enemies close<br>
+Your enemies close<br>
+Keep your enemies close<br>
+Your enemies<br>
+I cut you off but you're still here<br>
+Bedroom warfare in the middle of the night<br>
+Out of nowhere you come back into my life<br>
+And I know in the morning, we'll be<br>
+Nothing more than each other's enemy<br>
+Bedroom warfare in the middle of the night, ah</p>
+      </section>
+      
+     <section class="main-section" id="Broken_Heart_Of_Gold">
+        <header>Broken Heart of Gold</header>
+        <p>Luxury Disease</p>
+        <p>I move along<br>
+Something's wrong<br>
+I guess a part of me is gone<br>
+Skies are grey<br>
+Start to fade<br>
+I guess I threw it all away<br>
+Sometimes I just wanna quit<br>
+Tell my life I'm done with it<br>
+When it feels too painful<br>
+Sometimes I just wanna say<br>
+I love myself but not today<br>
+When it feels too painful<br>
+I smash my broken heart of gold<br>
+I smash my broken heart of gold<br>
+Tired soul<br>
+Dying hope<br>
+I guess I'm running out of road<br>
+I guess I've got nowhere<br>
+Sometimes I just wanna quit<br>
+Tell my life I'm done with it<br>
+When it feels too painful<br>
+Sometimes I just wanna say<br>
+I love myself but not today<br>
+When it feels too painful<br>
+I smash my broken heart of gold<br>
+I smash my broken heart of gold<br>
+I smash my broken heart of gold<br>
+Feels like I'm dying<br>
+Feels like I'm lying to myself<br>
+I know that I'm trying<br>
+But it feels like I'm in hell, I'm in hell<br>
+Sometimes I just wanna quit<br>
+Tell my life I'm done with it<br>
+When it feels too painful<br>
+Sometimes I just wanna say<br>
+I love myself but not today<br>
+When it feels too painful<br>
+I smash my broken heart of gold<br>
+I smash my broken heart of gold<br>
+I smash my broken heart of gold</p>
+      </section>
+     <section class="main-section" id="The_Beginning">
+        <header>The Beginning</header>
+        <p>人生×僕=</p>
+        <p>Just give me a reason<br>
+To keep my heart beating<br>
+Don't worry, it's safe right here in my arms<br>
+As the world falls apart around us<br>
+All we can do is hold on, hold on<br>
+Take my hand<br>
+And bring me back<br>
+I'll risk everything if it's for you<br>
+A whisper into the night<br>
+Telling me it's not my time and don't give up<br>
+I've never stood up before this time<br>
+でも 譲れないもの<br>
+握ったこの手は離さない<br>
+So stand up, stand up<br>
+Just gotta keep it<br>
+I wanna wake up, wake up<br>
+Just tell me how I can<br>
+Never give up<br>
+狂おしいほど刹那の艶麗<br>
+Just tell me why baby<br>
+They might call me crazy<br>
+For saying I'll fight until there is no more<br>
+愁いを含んだ閃光 眼光は感覚的衝動<br>
+Blinded I can't see the end<br>
+So where do I begin<br>
+Say not a word I can hear you<br>
+The silence between us<br>
+なにもないように映ってるだけ<br>
+I'll take this chance and I'll make it mine<br>
+ただ隠せないもの 飾ったように見せかけてる<br>
+So stand up, stand up<br>
+Just gotta keep it<br>
+I wanna wake up, wake up<br>
+Just tell me how I can<br>
+Never give up<br>
+悲しみと切なさの艶麗<br>
+Just give me a reason<br>
+To keep my heart beating<br>
+Don't worry, it's safe right here in my arms<br>
+くだけて泣いて咲いて散ったこの思いは<br>
+So blinded I can't see the end<br>
+Look how far we've made it<br>
+The pain I can't escape it<br>
+このままじゃまだ終わらせる事は出来ないでしょ<br>
+何度くたばりそうでも朽ち果てようとも<br>
+終わりはないさ<br>
+So where do I begin<br>
+握りしめた 失わぬようにと<br>
+手を広げればこぼれ落ちそうで<br>
+失うものなどなかった日々の惰性を捨てて<br>
+君を<br>
+Just tell me why baby<br>
+They might call me crazy<br>
+For saying I'll fight until there is no more<br>
+愁いを含んだ閃光 眼光は感覚的衝動<br>
+Blinded I can't see the end<br>
+Look how far we've made it<br>
+The pain I can't escape it<br>
+このままじゃまだ終わらせる事は出来ないでしょ<br>
+何度くたばりそうでも朽ち果てようとも<br>
+終わりはないさ<br>
+It finally begins</p>
+      </section>
+      <section class="main-section" id="Code_used">
+        <header>Code used</header>
+        <p>scrollable content</p>
+        <code>overflow:auto;</code>
+        <p>navbar height</p>
+        <code>height:100vh;</code>
+        <p>space between rows</p>
+        <code>row-gap:70px;</code>
+        <p>pseudo selector</p>
+        <code>.nav-link:first-of-type{
+  margin-top:20px;
+}
+.nav-link:last-of-type{
+  margin-bottom:20px;
+}</code>
+        <p>link</p>
+        <code>.nav-link:hover{
+  background-color:white;
+}
+.nav-link:visited{
+  color:black;
+}</code>
+        
+      </section>
+    </main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+*{
+  box-sizing:border-box;
+  font-family: "Gill Sans",sans-serif;
+}
+
+#navbar{
+  background-color:#81C0C0;
+  text-align:center;
+  height:100vh;
+  width:320px;
+  position:fixed;
+  margin-top:-20px;
+  margin-left:-20px;
+  border-right:5px solid gray;
+  
+}
+#navbar header{
+  font-weight:bold;
+  font-size:1.5rem;
+  height:100px;
+  width:320px;
+  padding-top:20px;
+  margin-top:30px;
+  position:fixed;
+}
+
+#nav-links{
+  position:relative;
+  top:110px;
+  height:100vh;
+  display:flex;
+  flex-direction:column;
+  row-gap:70px;
+  overflow:auto;
+  font-size:1.3rem;
+  
+}
+.nav-link{
+  display:block;
+  text-decoration:none;
+  color:black;
+  border-bottom:1px solid gray;
+  
+}
+.nav-link:first-of-type{
+  margin-top:20px;
+}
+.nav-link:last-of-type{
+  margin-bottom:20px;
+}
+.nav-link:hover{
+  background-color:white;
+}
+.nav-link:visited{
+  color:black;
+}
+
+#main-doc{
+  
+  margin-left:300px;
+  margin-top:-20px;
+  background-color:#D1E9E9;
+  padding-bottom:50px;
+}
+
+section{
+  padding-left:30px;
+  margin-bottom:30px;
+}
+
+section header{
+  font-size:1.7rem;
+  font-weight:bold;
+  padding-top:50px;
+}
+section p{
+  letter-spacing:1.3px;
+  font-size:1.2rem;
+}
+
+@media only screen and (max-width:750px){
+  #navbar{
+  background-color:#81C0C0;
+  text-align:center;
+  height:400px;
+  width:100vw;
+  margin-top:-20px;
+  margin-left:-20px;
+  border-bottom:5px solid gray;
+}
+#navbar header{
+  font-weight:bold;
+  font-size:1.5rem;
+  height:100px;
+  width:100vw;
+  padding-top:20px;
+  margin-top:30px;
+  position:fixed;
+}
+
+#nav-links{
+  position:relative;
+  top:110px;
+  height:70%;
+  display:flex;
+  flex-direction:column;
+  row-gap:70px;
+  overflow:auto;
+  font-size:1.3rem;
+}
+#main-doc{
+  width:100vw;
+  margin-left:-10px;
+  position:relative;
+  top:400px;
+  background-color:#D1E9E9;
+  padding-bottom:50px;
+}
+
+}
+
+** end of undefined **
+
