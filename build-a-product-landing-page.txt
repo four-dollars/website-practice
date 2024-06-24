@@ -1,0 +1,214 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Product landing page</title>
+  </head>
+  <body>
+    <header id="header">
+      <img id="header-img" src="https://i.pinimg.com/originals/98/0d/8a/980d8a50eee1c0dff0073b2bfd06f7fe.jpg" alt="wuthering_waves_logo">
+      <nav id="nav-bar">
+        
+        <ul>
+          <li><a class="nav-link"  href="#video_header">正式リリースPV</a></li>
+          <li><a class="nav-link" href="#form">Subscribe</a></li>
+          <li><a class="nav-link" href="#price_list">Price</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <form id="form" method="post" action="https://www.freecodecamp.com/email-submit">
+      <label for="email">Subscribe News</label>
+       <input id="email" name="email" type="email" placeholder="Enter your email address">
+       <input id="submit" type="submit">
+      </form>
+      <h2 id="video_header">正式リリースPV</h2>
+      <iframe id="video"
+      width="560"
+      height="315" 
+      src="https://www.youtube.com/embed/BaB7ay0epZ0?si=G-Z2soWjLvwFoZ6D" 
+      title="YouTube video player" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin" 
+      allowfullscreen></iframe>
+      <ul id="price_list">
+        <li>
+          <h3>6480月相</h3>
+          <p>3290NTD</p>
+        </li>
+        <li>
+          <h3>3280月相</h3>
+          <p>1690NTD</p>
+        </li>
+        <li>
+          <h3>1980月相</h3>
+          <p>990NTD</p>
+        </li>
+        <li>
+          <h3>980月相</h3>
+          <p>490NTD</p>
+        </li>
+        <li>
+          <h3>300月相</h3>
+          <p>170NTD</p>
+        </li>
+        <li>
+          <h3>60月相</h3>
+          <p>33NTD</p>
+        </li>
+      </ul>
+    </main>
+    <footer>
+      <a href="https://wutheringwaves.kurogames.com/zh-tw/">Official Website</a>
+      <a href="https://www.kurobbs.com/mc/home/9">KURObbs</a>
+      <p>this webpage is made by fourdollar</p>
+    </footer>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+*{
+  box-sizing:border-box;
+  font-family: system-ui,serif;;
+}
+a, a:visited{
+  text-decoration:none;
+  color:black;
+}
+
+a:hover{
+  color:#FF7575;
+}
+
+#header{
+  position:fixed;
+  display:flex;
+  height:150px;
+  width:100vw;
+  background-color:white;
+  margin-top:-150px;
+  margin-left:-20px;
+  margin-right:-20px;
+  padding:20px;
+}
+#nav-bar{
+  width:100%;
+  height:100%;
+}
+#nav-bar ul{
+  
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  grid-auto-flow:column dense;
+  grid-auto-columns:1fr;
+  justify-content:space-evenly;
+  place-items:center;
+  height:100%;
+  margin-top:0;
+}
+#nav-bar li{
+  list-style:none;
+  height:100%;
+  width:100%;
+}
+.nav-link{
+  text-align:center;
+  height:100%;
+  width:100%;
+  display:block;
+  padding-top:40px;
+  font-size:1.3rem;
+}
+main{
+  
+  width:100vw;
+  margin-top:150px;
+  padding-top:30px;
+  text-align:center;
+  background-color:#E0E0E0;
+}
+#form{
+  padding:50px 0;
+  display:flex;
+  flex-direction:column;
+  place-items:center;
+}
+#form label{
+  font-size:2rem;
+  margin-bottom:10px;
+}
+#email{
+  margin-bottom:10px;
+}
+
+#video{
+  margin:100px auto;
+}
+
+main ul{
+  display:grid;
+  grid-template-columns:repeat(6,1fr);
+  grid-auto-flow:column dense;
+  grid-auto-columns:1fr;
+  overflow:auto;
+  gap:2rem;
+}
+main ul li{
+  background-color:white;
+  list-style:none;
+  width:400px;
+  height:500px;
+  text-align:center;
+  padding-top:100px;
+}
+main ul li h3{
+  font-size:5rem;
+}
+main ul li p{
+  font-size:3rem;
+}
+
+footer{
+  text-align:right;
+  padding-top:10px;
+  padding-right:10px;
+}
+
+@media (max-width:750px){
+  #header{
+  position:fixed;
+  display:flex;
+  height:150px;
+  width:100vw;
+  background-color:lightblue;
+  margin-top:-150px;
+  margin-left:-20px;
+  margin-right:-20px;
+  padding:20px;
+}
+#header-img{
+  display:none;
+}
+  #nav-bar ul{
+  display:grid;
+  grid-template-rows:repeat(3,1fr);
+  grid-auto-flow:row dense;
+  grid-auto-rows:1fr;
+  justify-content:space-evenly;
+  place-items:center;
+  height:100%;
+  margin-top:0px;
+}
+}
+
+
+** end of undefined **
+
